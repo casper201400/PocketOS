@@ -1,6 +1,6 @@
-#PocketOS
+# PocketOS
 
-#Your pocket. Your system.
+# Your pocket. Your system.
 
 PocketOS is a custom operating system project built around the ESP32-2432S028 (Cheap Yellow Display / CYD). The goal is to turn a small touchscreen development board into a compact, phone-like device with its own interface, applications, settings, and features.
 
